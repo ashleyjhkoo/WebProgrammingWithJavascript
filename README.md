@@ -1,1 +1,1 @@
-# ProgrammingForTheWebWithJavascript
+# WebProgrammingWithJavascript
