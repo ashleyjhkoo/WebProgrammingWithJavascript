@@ -1,3 +1,8 @@
 ---
 ---
 @import "{{ site.theme }}";
+header h1 {
+  font-size: 1.8em;
+  text-transform: none !important;
+  line-height:1.3;
+}
