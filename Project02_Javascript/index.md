@@ -1,7 +1,7 @@
 # Project02 - Javascript
 
 ## Go to the execution page!
-[Project02](https://ashleyjhkoo.github.io/WebProgrammingWithJavascript/Project02_Javascript/petstore.html)
+[Project02](https://ashleyjhkoo.github.io/WebProgrammingWithJavascript/Project02_Javascript/petstore.html){:target="_blank"}
 
 ## What was the mission?
 In this mission, you will implement some simple JavaScript functions.

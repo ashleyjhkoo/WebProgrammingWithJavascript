@@ -1,7 +1,7 @@
 # Project03 - JQuery
 
 ## Go to the execution page!
-[Project03](https://ashleyjhkoo.github.io/WebProgrammingWithJavascript/Project03_JQuery-Calculator/calc.html)
+[Project03](https://ashleyjhkoo.github.io/WebProgrammingWithJavascript/Project03_JQuery-Calculator/calc.html){:target="_blank"}
 
 ## What was the mission?
 In this mission, you will develop a calculator app using JavaScript and jQuery. 

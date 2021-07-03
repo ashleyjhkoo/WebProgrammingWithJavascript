@@ -13,8 +13,8 @@ a:-webkit-any-link {
 
     text-decoration: none;
 }
-a, a:hover {
-
+a, a:hover, a:visited {
+    text-decoration: none;
 }
 section #main_content {
   

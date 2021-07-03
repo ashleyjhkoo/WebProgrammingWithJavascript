@@ -1,7 +1,7 @@
 # Project04 - ReactJS
 
 ## Go to the execution page!
-[Project04](https://ashleyjhkoo.github.io/WebProgrammingWithJavascript/Project04_ReactJS/chooser.html)
+[Project04](https://ashleyjhkoo.github.io/WebProgrammingWithJavascript/Project04_ReactJS/chooser.html){:target="_blank"}
 
 ## What was the mission?
 In this mission, you will develop a React component that allows the reader of a web page to change the appearance of a piece of text.
