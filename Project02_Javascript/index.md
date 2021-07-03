@@ -27,3 +27,6 @@ mostPopularDays: This function determines which day of the week had the most num
 createAnimalObjects: Given three arrays of equal length containing information about a list of animals – where names[i], types[i], and breeds[i] all relate to the same, single animal – this function should return an array of Animal objects constructed from the information provided in the arrays. The parameter names represents the array of the animals’ names; types represents the array of the animals’ types (e.g. "Dog", "Cat", "Bird"); and breeds represents the array of the animals’ breeds. This function should return an array of Animal objects (which you can create using the prototype function at the bottom of petstore.js), each of which contains the animal’s information, or an empty array if the arrays’ lengths are unequal or zero, or if any array is null.
 
 Your implementations are only expected to handle the “normal” operations of these functions, and any extra conditions listed above. You may think of or encounter other situations or inputs not described here, but you only need to consider the ones listed above for grading.
+
+
+[Top](#forkme_banner)

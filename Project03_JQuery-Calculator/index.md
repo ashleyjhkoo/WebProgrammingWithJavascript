@@ -236,3 +236,9 @@ However, if the user has just completed an operation using the equals button and
 Case 7: Selecting multiple operators
 
 If the app is in the “reset” state and the user enters some numbers, and then an operator, and then a different operator, the first operator should be ignored and the second operator should be used in the operation. For example, if the app is reset and the user enters “6” and then “+” and then “*” and then “2” and then “=”, the “+” operator should be ignored and the “*” operator should be used, so the display should read “12”.
+
+
+[Top](#forkme_banner)
+
+
+
