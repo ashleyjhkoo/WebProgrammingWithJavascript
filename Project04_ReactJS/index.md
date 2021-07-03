@@ -1,7 +1,9 @@
 # Project04 - ReactJS
 
+
 ## Go to the execution page!
 [Project04](https://ashleyjhkoo.github.io/WebProgrammingWithJavascript/Project04_ReactJS/chooser.html){:target="_blank"}
+
 
 ## What was the mission?
 In this mission, you will develop a React component that allows the reader of a web page to change the appearance of a piece of text.
@@ -22,7 +24,8 @@ Define callback functions that are invoked as the result of user actions in the 
 
 Use those callback functions to modify the attributes of HTML elements
 
-### Activity
+
+#### Activity
 The FontChooser component should allow the user to change the font weight (bold or normal) and font size of the text that it is displaying. Implement the React component in FontChooser.js as follows:
 
 Initial rendering

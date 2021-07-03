@@ -1,7 +1,9 @@
 # Project01 - HTML
 
+
 ## Go to the execution page!
 [Project01](https://ashleyjhkoo.github.io/WebProgrammingWithJavascript/Project01_HTML/calendar.html){:target="_blank"}
+
 
 ## What was the mission?
 In this mission, you will modify an existing HTML page that uses inline style attributes so that it instead uses an external CSS file.
@@ -11,6 +13,7 @@ In completing this assignment, you will:
 Gain experience reading, understanding, and working with existing HTML
 
 Apply what you have learned about CSS classes and styling
+
 
 ### Activity
 As discussed in the lessons, one of the drawbacks of using inline CSS is that it can lead to large amounts of repetitive code, which can be difficult to maintain and change. As you see in this example, there are many places in which the styling has been copied & pasted to create different elements, and if something were to change, it would be manually intensive.
