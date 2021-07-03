@@ -4,7 +4,7 @@
 [Project01](https://ashleyjhkoo.github.io/WebProgrammingWithJavascript/Project01_HTML/calendar.html)
 
 ## What was the mission?
-In this assignment, you will modify an existing HTML page that uses inline style attributes so that it instead uses an external CSS file.
+In this mission, you will modify an existing HTML page that uses inline style attributes so that it instead uses an external CSS file.
 
 In completing this assignment, you will:
 

@@ -6,3 +6,13 @@ header h1 {
   text-transform: none !important;
   padding-bottom: 10px;
 }
+a {
+    text-decoration: none;
+}
+a:-webkit-any-link {
+    color: #ffffff;
+    text-decoration: none;
+}
+a, a:hover {
+    color: #ffffff;
+}
