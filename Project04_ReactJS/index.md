@@ -25,7 +25,7 @@ Define callback functions that are invoked as the result of user actions in the 
 Use those callback functions to modify the attributes of HTML elements
 
 
-#### Activity
+### Activity
 The FontChooser component should allow the user to change the font weight (bold or normal) and font size of the text that it is displaying. Implement the React component in FontChooser.js as follows:
 
 Initial rendering
