@@ -24,4 +24,4 @@ Then create CSS rules in calendar.css based on the “style” attributes of the
 When you are finished putting the CSS rules in calendar.css, delete the “style” attributes for all HTML elements in calendar.html. If you did this correctly, the rendered HTML page should still look exactly the same!
 
 
-[Top](#Project01-HTML)
+[Top](#head_anchor")
