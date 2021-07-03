@@ -1,7 +1,7 @@
 # Project01 - HTML
 
 ## Go to the execution page!
-[Project01](https://ashleyjhkoo.github.io/WebProgrammingWithJavascript/Project01_HTML/calendar.html)
+[Project01](https://ashleyjhkoo.github.io/WebProgrammingWithJavascript/Project01_HTML/calendar.html){:target="_blank"}
 
 ## What was the mission?
 In this mission, you will modify an existing HTML page that uses inline style attributes so that it instead uses an external CSS file.
@@ -22,3 +22,6 @@ Start by creating a file called calendar.css (you must name it this for grading 
 Then create CSS rules in calendar.css based on the “style” attributes of the HTML elements in calendar.html. Group the rules together based on elements’ “class” attributes and/or HTML element types, keeping the exact same styling rules.
 
 When you are finished putting the CSS rules in calendar.css, delete the “style” attributes for all HTML elements in calendar.html. If you did this correctly, the rendered HTML page should still look exactly the same!
+
+
+[Top](#Project01_HTML)
